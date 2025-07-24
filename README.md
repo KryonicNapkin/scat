@@ -1,2 +1,2 @@
 # scat
-scati - simple cat 
+scat - simple cat 
